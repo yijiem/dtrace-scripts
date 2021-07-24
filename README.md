@@ -1,2 +1,2 @@
-# dtrace-scripts-macos
-Some dtrace scripts used on macOS platform.
+# dtrace-scripts
+Some dtrace scripts used on macOS and Windows platform.
